@@ -80,3 +80,6 @@ theme: hexo-theme-next
 deploy:
   type: git
   repo: git@github.com:wangfengye/wangfengye.github.io.git
+  branch: master
+ 
+  
